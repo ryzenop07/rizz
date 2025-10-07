@@ -1,0 +1,26 @@
+aiofiles
+aiohttp~=3.12.15
+beautifulsoup4
+Flask
+gitpython
+gunicorn
+hachoir
+heroku3
+lyricsgenius
+motor
+ntgcalls==2.0.6
+pillow
+psutil
+py-tgcalls==2.2.8
+PyTgCrypto
+python-dotenv
+requests
+speedtest-cli
+spotipy
+unidecode
+uvloop
+werkzeug
+# yt-dlp removed - using YouTube Data API v3 instead
+https://github.com/KurimuzonAkuma/pyrogram/archive/dev.zip
+https://github.com/KSKOP69/youtube-search-python/archive/ksk.zip
+PyYAML~=6.0.3
